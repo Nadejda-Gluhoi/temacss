@@ -1,0 +1,15 @@
+html {
+  font-size: 16px;
+  margin-bottom: 50px;
+  
+}
+[class^="col"] {
+    border: 3px solid rgba(0, 0, 0, 0.2);
+    min-height: 50px;
+}
+.font-sizes {
+    text-align: center;
+    padding: 30px 0;
+   
+}
+
